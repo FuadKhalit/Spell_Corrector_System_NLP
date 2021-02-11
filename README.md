@@ -13,8 +13,8 @@ Created NLP rules-based programming based on noisy channel model for spell corre
 ![result](image/nlpfc.png)
 
 ## User Interface 
-<br>
-![result](image/NLPGUI.jpg)</br>
+
+<br>![result](image/NLPGUI.jpg)</br>
 
 ## Performance
 
